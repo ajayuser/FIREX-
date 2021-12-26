@@ -57,4 +57,4 @@ RUN wget https://raw.githubusercontent.com/TeamEviral/Fire-X/master/requirements
 #Start Fumkin
 RUN pip3 install -r requirements.txt
 
-CMD ["python3","amaan.py"]
+CMD ["python3","firebotmain.py"]

@@ -1,1 +1,1 @@
-worker: python3 amaan.py
+worker: python3 firebotmain.py
